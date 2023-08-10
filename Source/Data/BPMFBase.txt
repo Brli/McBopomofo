@@ -84,6 +84,7 @@
 韽 ㄢ an 0 big5
 垵 ㄢ an 0 big5
 鮟 ㄢ an 0 big5
+菴 ㄢ an 0 big5
 俺 ㄢˇ an3 03 big5
 唵 ㄢˇ an3 03 big5
 晻 ㄢˇ an3 03 big5
